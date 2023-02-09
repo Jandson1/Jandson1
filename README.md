@@ -13,12 +13,15 @@ ___________________________________
 ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### :paperclip: CONTROLE DE VERSÃO DE CÓDIGO: 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 ### :paperclip: AMBIENTES DE DESENVOLVIMENTO: 
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+
+### :paperclip: CONTROLE DE VERSÃO DE CÓDIGO: 
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### :paperclip: GESTÃO DE TAREFAS: 
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ___________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jandson1&theme=blue-green)
 
