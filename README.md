@@ -24,9 +24,9 @@ ___________________________________
 ### :paperclip: GESTÃO DE TAREFAS: 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ___________________________________
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jandson1&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jandson1&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](	https://github-readme-stats.vercel.app/api?username=Jandson1&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jandson1&show_icons=true&theme=blue-green)
 ___________________________________
 ### :paperclip: Redes Sociais:
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandsonmoura/)
