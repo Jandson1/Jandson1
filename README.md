@@ -2,7 +2,7 @@
  
 Sou do Ceará e formando em Engenharia de Energias pela UNILAB. 
 
-Atualmente tenho dedicado a maior parte do meu tempo livre em aprender sobre desenvolvimento e tecnologias.
+Atualmente tenho dedicado a maior parte do meu tempo livre em aprender sobre desenvolvimento e tecnologia.
 ___________________________________
 
 ### :paperclip: TECNOLOGIAS: 
