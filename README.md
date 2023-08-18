@@ -1,6 +1,6 @@
 ## Hello :raising_hand_man: I'm Jandson Moura
  
-I'm from Ceará and studying Energy Engineering at UNILAB.
+I'm from Ceará and graduated in Energy Engineering.
 
 Currently I have dedicated most of my free time to learning about development and technology.
 ___________________________________
